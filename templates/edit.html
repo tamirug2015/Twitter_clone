@@ -10,7 +10,7 @@
     <form action="/edit/{{posts.id}}/" method="POST"  enctype="multipart/form-data"> 
       {% csrf_token %}
       <input type="text" name="name" placeholder="Name" value = "{{posts.name}}"required /><br />
-      <textarea name="body"  placeholder="Whats happening" value="{{posts.body}}" ></textarea
+      <input name="body"  placeholder="Whats happening" value="{{posts.body}}" ></input
       ><br />
       <input id ="uploadfile" type="file" name ="image">
       <br>

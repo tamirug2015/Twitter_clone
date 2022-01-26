@@ -6,6 +6,7 @@ To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 ```
 Check out [LIVE Twitter clone DEMO](https://twitter-clone-tamiru.herokuapp.com/) here!!
+Screenshot 2022-01-26 at 11.32.38 PM.png![Screenshot 2022-01-26 at 11 32 38 PM](https://user-images.githubusercontent.com/95067041/151220822-69fa772b-3085-415e-8715-3ffbad90fa04.png)
 
 
 ## Tech used
